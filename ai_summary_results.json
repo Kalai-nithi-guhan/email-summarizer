@@ -1,0 +1,52 @@
+{
+  "top_5_points": [
+    {
+      "rank": 1,
+      "type": "important_info",
+      "point": "Dear Indian Railways Customer Service, PNR Number: 5678901234 Train Number: 12952 Journey Date: December 10, 2024 CRITICAL ISSUES: 1.",
+      "date": "December 10, 2024",
+      "urgency": "medium",
+      "ai_score": 75.0
+    },
+    {
+      "rank": 2,
+      "type": "important_info",
+      "point": "MAJOR DELAY: 7 hours 50 minutes late without notification 2.",
+      "date": null,
+      "urgency": "medium",
+      "ai_score": 31.0
+    },
+    {
+      "rank": 3,
+      "type": "important_info",
+      "point": "FORMAL APOLOGY required 4.",
+      "date": null,
+      "urgency": "medium",
+      "ai_score": 26.0
+    },
+    {
+      "rank": 4,
+      "type": "meeting",
+      "point": "Missed business meeting worth ₹50,000 DEMANDS: 1.",
+      "date": null,
+      "urgency": "medium",
+      "ai_score": 20.0
+    },
+    {
+      "rank": 5,
+      "type": "important_info",
+      "point": "IMMEDIATE FULL REFUND: ₹3,775 2.",
+      "date": null,
+      "urgency": "medium",
+      "ai_score": 19.0
+    }
+  ],
+  "ai_generated_summary": "Train No. 12952 Delayed by 8 Hours - Refund Requested Requested by Indian Railways Customer Service. Refund of ₹3,775 is requested for the journey from Mumbai Central to New Delhi Junction. The journey is scheduled for December 10, 2024.",
+  "metadata": {
+    "total_sentences": 9,
+    "dates_found": 1,
+    "model_used": "facebook/bart-large-cnn",
+    "processing_device": "cuda",
+    "processed_at": "2025-12-11 22:28:36"
+  }
+}

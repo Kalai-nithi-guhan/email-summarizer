@@ -1,0 +1,45 @@
+{
+  "top_5_points": [
+    {
+      "rank": 1,
+      "type": "task",
+      "point": "Retrieved March 27, 2025, from https://www. worldometers.info/world-population/ Last updated April 10, 2025 More information on APA Style can be found in the Publication Manual of the American Psychological Association (7th ed.) and the Concise Guide to APA Style (7th ed.) .CITE THIS HANDOUT : American Psychological Association. (2025).",
+      "date": "March 27, 2025",
+      "urgency": "medium"
+    },
+    {
+      "rank": 2,
+      "type": "deadline",
+      "point": "Comprehensive implementation plan on maternal, infant and young child nutritio n. https://apps.who.int/iris/bitstream/handle/10665/113048/WHO_NMH_NHD_14.1_ eng.pdf?ua=1 Report by Individual Authors (Section 10.4) Winthrop, R., Ziegler, L., Handa, R., & Fakoya, F. (2019).",
+      "date": null,
+      "urgency": "low"
+    },
+    {
+      "rank": 3,
+      "type": "meeting",
+      "point": "People who use willpower alone to achieve goals, resist temptation, deemed more trustworthy [Press release]. https://www.apa.org/news/press/ releases/2024/04/people-who-use-willpower Conference Session (Section 10.5) Davidson, R.",
+      "date": null,
+      "urgency": "medium"
+    },
+    {
+      "rank": 4,
+      "type": "important_info",
+      "point": "The New York Times . https://www.nytimes.com/2024/06/03/magazine/benjamin-bolger-college-harvard-yale.html Print Newspaper Article (Section 10.1) Reynolds, G. (2019, April 9).",
+      "date": "2024/06/03",
+      "urgency": "medium"
+    },
+    {
+      "rank": 5,
+      "type": "important_info",
+      "point": "NPR. https://www.npr.org/2020/03/19/817237429/spring-starts-today-all-over america-which-is-weird Podcast Episode (Section 10.13) Santos, L. (Host). (n.d.) Psychopaths and superheroes (No. 1) [Audio podcast episode].",
+      "date": "Today",
+      "urgency": "medium"
+    }
+  ],
+  "overall_summary": "Contains: 1 deadline(s), 1 task(s), 1 meeting(s)",
+  "metadata": {
+    "total_sentences": 70,
+    "dates_found": 7,
+    "processed_at": "2025-12-11 12:49:21"
+  }
+}
